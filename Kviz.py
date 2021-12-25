@@ -1,2 +1,2 @@
 #KVIZ
-print ("KVIZ")
+print ("KVIZ se zacenja")
